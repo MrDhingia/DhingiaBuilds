@@ -1,6 +1,6 @@
 Welcome to Dhingia Builds!
 
-We are excited to share our collection of free 3D models with the community. Our models can be used for a variety of purposes, including deployment in Decentraland, architectural visualization, and game development.
+We are excited to share our collection of free 3D models with the community. Our models can be used for a variety of purposes, including deployment in Decentraland.
 
 To get started, simply download the model files from our GitHub repository. All of our models are released under an open source license, which means you are free to use them for personal or commercial projects.
 
