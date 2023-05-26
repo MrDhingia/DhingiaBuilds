@@ -1,0 +1,53 @@
+{
+  "display": {
+    "title": "New scene",
+    "favicon": "favicon_asset",
+    "navmapThumbnail": "scene-thumbnail.png"
+  },
+  "owner": "",
+  "contact": {
+    "name": "DhingiaBuilds",
+    "email": ""
+  },
+  "main": "bin/game.js",
+  "tags": [],
+  "scene": {
+    "parcels": [
+      "0,0",
+      "1,0"
+    ],
+    "base": "0,0"
+  },
+  "source": {
+    "version": 1,
+    "origin": "builder",
+    "projectId": "d5c05a56-efac-4b18-9d8d-4a73cd52c113",
+    "point": {
+      "x": 0,
+      "y": 0
+    },
+    "rotation": "east",
+    "layout": {
+      "rows": 2,
+      "cols": 1
+    }
+  },"requiredPermissions": ["ALLOW_TO_MOVE_PLAYER_INSIDE_SCENE", "ALLOW_TO_TRIGGER_AVATAR_EMOTE"],
+  "featureToggles": {}
+  ,
+  "spawnPoints": [
+    {
+      "name": "spawn1",
+      "default": true,
+      "position": {
+        "x": 27.46,
+        "y": 1,
+        "z": 15.54
+      },
+      "cameraTarget": {
+        "x": 8,
+        "y": 2,
+        "z": 8
+      }
+    }
+  ]
+}

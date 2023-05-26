@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "outFile": "./bin/game.js",
+    "allowJs": true,
+    "paths": {
+      "@dcl/ecs-scene-utils": [
+        "node_modules\\@dcl\\ecs-scene-utils\\dist\\index.d.ts"
+      ],
+      "@dcl/npc-scene-utils": [
+        "node_modules\\@dcl\\npc-scene-utils\\dist\\index.d.ts"
+      ]
+    },
+    "baseUrl": "."
+  },
+  "include": [
+    "src/**/*.ts",
+    "./node_modules/decentraland-builder-scripts/types.d.ts"
+  ],
+  "extends": "./node_modules/decentraland-ecs/types/tsconfig.json",
+  "compileOnSave": false
+}
